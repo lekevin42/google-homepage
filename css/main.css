@@ -1,0 +1,139 @@
+/*css stylesheet*/
+
+.header{
+    margin-top: 16px;
+    margin-left: 20px;
+    position: relative;
+    display: inline-block;
+    left: 75%;
+    font-size: 12px;
+    font-family: Arial;
+    color: #838383;
+}
+
+.underline:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.google-apps{
+    height: 5px;
+    width: 5px;
+    background-color: grey;
+    position: relative;
+    margin-left: 5px;
+    
+}
+
+#blue-button{
+    background-color: #3399ff;
+    height: 20px;
+    width: 70px;
+    position: relative;
+    padding: 8px 0px 3px 0px;
+    text-align: center;
+   
+}
+
+span{
+    color: white;
+}
+
+.logo{
+    display: inline-block;
+    text-align: center;
+    font-size: 100px;
+    font-family: Catuli;
+    margin-top: 14%;
+}
+
+#search-bar{
+    height: 30px;
+    width: 500px;
+    border: solid 1px #d4d4d4;
+    background-color: white;
+    left: 28%;
+    position: relative;
+}
+
+#search-bar:hover{
+    border: solid 1px #c3c3c3;
+}
+
+#one-G{
+    margin-left: 37%;
+    color: blue;
+}
+
+#two-o{
+    color: red;
+}
+
+#three-o{
+    color: yellow;
+}
+
+#four-g{
+    color: blue;
+}
+
+#five-l{
+    color: green;
+}
+
+#six-e{
+    color: red;
+}
+
+.tanbutton{
+    height: 20px;
+    width: 120px;
+    border: solid 1px #d9d9d9;
+    background-color: #f5f5f5;
+    text-align: center;
+    display: inline-block;
+    left: 38%;
+    position: relative;
+    margin-left: 10px;
+    font-family: Arial;
+    font-size: 12px;
+    color: #000000;
+    padding-top: 5px;
+}
+
+.tanbutton:hover{
+    border: solid 1px #c3c3c3
+}
+
+.footer{
+    background-color: #f5f5f5;
+    margin-top: 17%;
+    height: 40px;
+    width: 99.8%;	     
+}
+
+.footer p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.footer-left{
+    padding: 15px 0px 0px 15px;
+    margin-left: 15px;
+    display: inline-block;
+    color: #838383;
+    font-size: 14px;
+   
+}
+
+.footer-right{
+    color: #838383;
+    font-size: 14px;
+    display: inline-block;
+    margin-left: 35px;
+   
+}
+
+#first-right{
+    padding-left: 50%;
+}

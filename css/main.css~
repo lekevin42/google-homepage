@@ -1,0 +1,6 @@
+/*css stylesheet*/
+
+div > p{
+    color:red;
+    background-color: yellow;
+}
